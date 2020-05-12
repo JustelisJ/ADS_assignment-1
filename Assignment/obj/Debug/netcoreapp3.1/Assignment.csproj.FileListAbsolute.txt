@@ -1,0 +1,11 @@
+C:\Users\Justinas\Desktop\Uni\Semester 4\ADS\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+C:\Users\Justinas\Desktop\Uni\Semester 4\ADS\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+C:\Users\Justinas\Desktop\Uni\Semester 4\ADS\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+C:\Users\Justinas\Desktop\Uni\Semester 4\ADS\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+C:\Users\Justinas\Desktop\Uni\Semester 4\ADS\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+C:\Users\Justinas\Desktop\Uni\Semester 4\ADS\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+C:\Users\Justinas\Desktop\Uni\Semester 4\ADS\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\Justinas\Desktop\Uni\Semester 4\ADS\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\Justinas\Desktop\Uni\Semester 4\ADS\Assignment\obj\Debug\netcoreapp3.1\Assignment.csprojAssemblyReference.cache
+C:\Users\Justinas\Desktop\Uni\Semester 4\ADS\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\Justinas\Desktop\Uni\Semester 4\ADS\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
